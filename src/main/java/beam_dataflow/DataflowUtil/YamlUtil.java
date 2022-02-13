@@ -28,6 +28,7 @@ public class YamlUtil implements Serializable
 		try {
 			obj = new JSONParser().parse(arg[0].replace('\\', '"'));
 	        JSONObject jo = (JSONObject) obj;
+	        System.out.println(jo.toJSONString());
 	        project = (String) jo.get("project_name");
 	        bucket = (String) jo.get("bucket_name");
 	        config_path = (String) jo.get("config_filename");
