@@ -1,0 +1,28 @@
+{
+	"schema": [
+		{
+			"name": "Id",
+			"type": "STRING"
+		},
+		{
+			"name": "Name",
+			"type": "STRING"
+		},
+		{
+			"name": "Age",
+			"type": "STRING"
+		},
+		{
+			"name": "sys_information_dict",
+			"type": "STRING"
+		},
+		{
+			"name": "source_system_code",
+			"type": "STRING"
+		},
+		{
+			"name": "insert_timestamp",
+			"type": "STRING"
+		}
+	]
+}

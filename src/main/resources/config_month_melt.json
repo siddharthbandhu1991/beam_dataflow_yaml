@@ -1,0 +1,37 @@
+{
+	"schema": [
+		{
+			"name": "missing_column_1",
+			"type": "STRING"
+		},
+		{
+			"name": "missing_column_2",
+			"type": "STRING"
+		},
+		{
+			"name": "section",
+			"type": "STRING"
+		},
+		{
+			"name": "key",
+			"type": "STRING"
+		},
+		{
+			"name": "value",
+			"type": "STRING"
+		},
+		
+		{
+			"name": "sys_information_dict",
+			"type": "STRING"
+		},
+		{
+			"name": "source_system_code",
+			"type": "STRING"
+		},
+		{
+			"name": "insert_timestamp",
+			"type": "STRING"
+		}
+	]
+}

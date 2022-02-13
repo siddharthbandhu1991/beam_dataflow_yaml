@@ -1,0 +1,40 @@
+{
+	"schema": [
+		{
+			"name": "UserId",
+			"type": "STRING"
+		},
+		{
+			"name": "OrderId",
+			"type": "STRING"
+		},
+		{
+			"name": "Name",
+			"type": "STRING"
+		},
+		{
+			"name": "ProductId",
+			"type": "STRING"
+		},
+		{
+			"name": "Amount",
+			"type": "STRING"
+		},
+		{
+			"name": "Order_Date",
+			"type": "STRING"
+		},
+		{
+			"name": "Country",
+			"type": "STRING"
+		},
+		{
+			"name": "source_system_code",
+			"type": "STRING"
+		},
+		{
+			"name": "insert_timestamp",
+			"type": "STRING"
+		}
+	]
+}

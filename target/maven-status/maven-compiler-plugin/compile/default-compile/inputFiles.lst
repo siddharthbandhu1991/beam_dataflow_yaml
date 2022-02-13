@@ -1,0 +1,7 @@
+E:\Eclipse\Workspace\beam_dataflow\src\main\java\beam_dataflow\DataflowReader\GCSFileIOReader.java
+E:\Eclipse\Workspace\beam_dataflow\src\main\java\beam_dataflow\DataflowSetup\DefineProperties.java
+E:\Eclipse\Workspace\beam_dataflow\src\main\java\beam_dataflow\main_module.java
+E:\Eclipse\Workspace\beam_dataflow\src\main\java\beam_dataflow\DataflowUtil\Table_Schema.java
+E:\Eclipse\Workspace\beam_dataflow\src\main\java\beam_dataflow\DataflowTransform\CSVtoTableRow.java
+E:\Eclipse\Workspace\beam_dataflow\src\main\java\beam_dataflow\DataflowTransform\TableRowColumnAdd.java
+E:\Eclipse\Workspace\beam_dataflow\src\main\java\beam_dataflow\DataflowUtil\PropertyUtil.java

@@ -1,0 +1,36 @@
+{
+	"schema": [
+		{
+			"name": "location_id",
+			"type": "STRING"
+		},
+		{
+			"name": "street_address",
+			"type": "STRING"
+		},
+		{
+			"name": "postal_code",
+			"type": "STRING"
+		},
+		{
+			"name": "city",
+			"type": "STRING"
+		},
+		{
+			"name": "state_province",
+			"type": "STRING"
+		},
+		{
+			"name": "country_id",
+			"type": "STRING"
+		},
+		{
+			"name": "source_system_code",
+			"type": "STRING"
+		},
+		{
+			"name": "insert_timestamp",
+			"type": "STRING"
+		}
+	]
+}
